@@ -1,7 +1,6 @@
-fabric-loader
+SodiumInside + Fabric Mod support (as long as built-in mods support it and indium is installed (for some mods))
 ===========
-
-The loader for mods under Fabric. It provides mod loading facilities and useful abstractions for other mods to use.
+Adds mods to minecraft (fabric).jar so launch time is reduced and performance is increased. All upsides!
 
 ## License
 
