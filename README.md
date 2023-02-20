@@ -1,4 +1,4 @@
-SodiumInside + Fabric Mod support (as long as built-in mods support it and indium is installed (for some mods))
+SodiumInside + Fabric Mod support
 ===========
 Adds mods to minecraft (fabric).jar so launch time is reduced and performance is increased. All upsides!
 
